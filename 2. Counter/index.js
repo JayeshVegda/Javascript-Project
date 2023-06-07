@@ -10,6 +10,7 @@ function mytry(id){
         main.innerText = 0
     }
     else if (id == "inc"){
-        main.innerText = Number.parseInt(text) + 1
+        main.innerText = Number.parseInt(text)
+         + 1
     }
 }
