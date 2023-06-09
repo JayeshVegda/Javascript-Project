@@ -1,9 +1,58 @@
-.bb{
-    width: 400px;
-    height: 400px;
-    padding: auto;
+body{
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
 }
 
-.dd{
-    background-color: red;
+.container{
+    margin-top: 8%;
+}
+.con{
+    justify-content: center;
+    align-items: center;
+    /* background-color: teal; */
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 0 0;
+    padding: 0 0;
+
+}
+
+.bb{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 10px 0px; 
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+#img{
+    height:  200px;
+    padding-bottom: 10px;
+}
+
+
+.output{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* background-color: teal; */
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 0 0;
+    padding: 0 0;
+}
+.o1{
+    flex: 1 1 100%;
+}
+.o2{
+    display: flex;
+    justify-content: center;
 }
