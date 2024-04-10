@@ -1,4 +1,8 @@
-# Javascript-Project
+
+# JavaScript Beginner Project
+
+A Beginning Javascript Project For Learning And Enjoyment.
+
 | No | Name| Description | Status |
 |--|--| -- |--|
 | 1 |Color Flipper | Changes the background color of the screen. |✅ |
@@ -11,3 +15,5 @@
 | 8 |Age Calculator | Calculates your age based on your birthdate. |🟥 |
 | 9 |Password Generator | Generates a random password for you. |🟥 |
 | 10 |Read News | Lets you read news articles from various sources. |🟥 |
+
+
